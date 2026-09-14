@@ -1,0 +1,6 @@
+{
+  "name": "월앤홈케어",
+  "description": "에어컨·냉장고 냉매충전, 입주청소, 벽걸이 TV설치, 가전제품 홈케어 전문 서비스 (서울·수도권 및 전국)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
